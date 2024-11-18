@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d65fecf1-e671-4605-8d53-ed4400bce944": {
+      "ProjectGuid": "d65fecf1-e671-4605-8d53-ed4400bce944",
+      "DisplayName": "datagrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

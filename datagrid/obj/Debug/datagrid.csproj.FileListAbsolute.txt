@@ -1,0 +1,31 @@
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\bin\Debug\datagrid.exe
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid_MarkupCompile.cache
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid_MarkupCompile.lref
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.g.resources
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Users\Admin\Desktop\Sessions\datagrid\datagrid\obj\Debug\datagrid.pdb
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\bin\Debug\datagrid.exe.config
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\bin\Debug\datagrid.exe
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\bin\Debug\datagrid.pdb
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.AssemblyReference.cache
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\MainWindow.g.cs
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\App.g.cs
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid_MarkupCompile.cache
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid_MarkupCompile.lref
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\MainWindow.baml
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.g.resources
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.cache
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.csproj.CoreCompileInputs.cache
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Users\ALMASRIA 4 COMP\Desktop\datagrid\datagrid\obj\Debug\datagrid.pdb
